@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS menu_test;
+
+CREATE DATABASE menu_test;
+
