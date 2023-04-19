@@ -9,7 +9,7 @@
     "seed": "node ./db/run_seed.js",
     "seed-prod": "NODE_ENV=production npm run seed"
   },
-  "author": "",
+  "author": "BBSharps",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
