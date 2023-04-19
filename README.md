@@ -12,6 +12,7 @@ https://chef-life-app-public.netlify.app/
 
 ### Project planning 
 https://trello.com/b/bgh5t97c/chef-life-sales-application
+Chef-Life-design.png
 
 ### Stack
 cors  
